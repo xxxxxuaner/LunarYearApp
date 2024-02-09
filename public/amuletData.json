@@ -1,0 +1,7 @@
+[
+  { "content": "love", "imageUrl": "/amulet/love.png" },
+  { "content": "greencard", "imageUrl": "/amulet/greencard.png" },
+  { "content": "money", "imageUrl": "/amulet/money.png" },
+  { "content": "work", "imageUrl": "/amulet/work.png" },
+  { "content": "health", "imageUrl": "/amulet/health.png" }
+]
